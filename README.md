@@ -1,3 +1,6 @@
+<!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
+## Hi there 👋 Sue is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=sue-yavuz" alt="visitor counter" title="Profile Views" style="text-align: right;"/>
+
 ## 📈 Statistics
 <p align="center">
 <!-- CHANGE-05 ...username=myname myname yerine github user name yaz -->
@@ -88,8 +91,6 @@ graph TD;
 [medium]: https://sue-yavuz.medium.com/ "Medium Page"
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 
-<!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
-## Hi there 👋 Sue is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=sue-yavuz" alt="visitor counter" title="Profile Views" style="text-align: right;"/>
 
 
 
