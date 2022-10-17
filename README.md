@@ -12,10 +12,10 @@
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 
 ## 📈 Statistics
-<p align="center">
+<p align="right">
 <!-- CHANGE-05 ...username=myname myname yerine github user name yaz -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="39%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-yavuz&theme=chartreuse-dark&layout=compact" alt="languages" width="39%" > </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="39%"  align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-yavuz&theme=chartreuse-dark&layout=compact" alt="languages" width="39%"/> </p>
+<p  > </p>
 
 
 
