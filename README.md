@@ -14,7 +14,7 @@
 ## 📈 Statistics
 <p align="right">
 <!-- CHANGE-05 ...username=myname myname yerine github user name yaz -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="39%"  align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-yavuz&theme=chartreuse-dark&layout=compact" alt="languages" width="39%"/> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="50%"  align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-yavuz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"/> </p>
 <p  > </p>
 
 
