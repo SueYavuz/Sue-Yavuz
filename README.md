@@ -96,9 +96,7 @@ graph TD;
 
 ## What I'm using ? 🛠
 
-I prefer Kaggle for Data Analysis and Data Science project.<br>
-(For my projects, I organize and update them within a certain schedule.)
-<br/>
+I prefer Kaggle for Data Analysis and Data Science project.
 
 <!-- CHANGE-03 /username/ yerine github user name yaz -->
 
