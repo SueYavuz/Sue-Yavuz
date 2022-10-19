@@ -79,7 +79,7 @@ graph TD;
 
 
 
-## What I'm using ? 🛠
+## 🛠 What I'm using ? 
 
 I prefer Kaggle for Data Analysis and Data Science project.
 
