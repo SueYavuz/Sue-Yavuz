@@ -96,8 +96,6 @@ graph TD;
 
 I prefer Kaggle for Data Analysis and Data Science project.
 
-<!-- CHANGE-03 /username/ yerine github user name yaz -->
-
 - [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
 
 - [x] [14CS Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
@@ -112,20 +110,6 @@ I prefer Kaggle for Data Analysis and Data Science project.
 
 <!-- CHANGE-04 /username/ yerine github user name yaz -->
 - [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
-
-
-- [x] I'm currently working on various kaggle projects with my Teammates.
-
-- [x] I'm furthering my knowledge of Python modules AI and ML with Kaggle projects.
-
-- [x] My future goal is to advance my Data Science knowledge.
-
-- [x] Python, SQL, HTML5, Git, GitHub
-
-- [x] 💬 Ask  me about anything that you want to learn
-
-- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
-
 
 
 <div align="center">
