@@ -104,7 +104,7 @@ I prefer Kaggle for Data Analysis and Data Science project.
 
 
 <div align="center">
-<table align="center">
+<table align="left">
 <thead valign="center"><tr><th colspan="4">🚀 Skills</th></tr></thead>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
 <tbody align="center">
