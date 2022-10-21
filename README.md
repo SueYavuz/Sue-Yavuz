@@ -11,8 +11,12 @@
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 
 ## 📈 Statistics
-<p align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="47%"  align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-yavuz&theme=chartreuse-dark&layout=compact" alt="languages" width="47%"/> </p>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="47%"  ---
+
+
+
+ </p>
 <p  > </p>
 
 
