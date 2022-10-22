@@ -99,7 +99,6 @@ I prefer Kaggle for Data Analysis and Data Science project.
 
 - [x] [50P-AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
 
-<!-- CHANGE-04 /username/ yerine github user name yaz -->
 - [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
 
 
