@@ -31,7 +31,8 @@ I prefer Kaggle for Data Analysis and Data Science project.
 - [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
 
 
-## 📈 Statistics
+## 📈 $\textcolor{green}{\text{Statistics}}$
+
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="47%"  ---
 
