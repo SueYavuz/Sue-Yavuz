@@ -10,6 +10,27 @@
 [medium]: https://sue-yavuz.medium.com/ "Medium Page"
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 
+
+
+## 🛠 What I've been doing? 
+
+I prefer Kaggle for Data Analysis and Data Science project.
+
+- [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
+
+- [x] [14CS Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
+
+- [x] [Data Analysis Projects with Python](https://github.com/sue-yavuz/Data-Analysis-Projects-with-Python/blob/main/README.md "Python Data Analysis Projects")
+
+- [x] [Data Analysis Projects with-SQL Server](https://github.com/sue-yavuz/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")
+
+- [x] [30P Data Analysis Projects with Tableau](https://github.com/sue-yavuz/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")
+
+- [x] [50P-AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
+
+- [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
+
+
 ## 📈 Statistics
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="47%"  ---
@@ -78,27 +99,3 @@ graph TD;
 }
 ```
 -->
-
-
-
-
-
-## 🛠 What I've been doing? 
-
-I prefer Kaggle for Data Analysis and Data Science project.
-
-- [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
-
-- [x] [14CS Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
-
-- [x] [Data Analysis Projects with Python](https://github.com/sue-yavuz/Data-Analysis-Projects-with-Python/blob/main/README.md "Python Data Analysis Projects")
-
-- [x] [Data Analysis Projects with-SQL Server](https://github.com/sue-yavuz/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")
-
-- [x] [30P Data Analysis Projects with Tableau](https://github.com/sue-yavuz/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")
-
-- [x] [50P-AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
-
-- [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
-
-
