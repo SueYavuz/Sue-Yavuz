@@ -12,7 +12,7 @@
 
 
 
-## 🛠 $$\textcolor{green}{\text{What I've been doing? }}$$
+## 🛠 $\textcolor{green}{\text{What I've been doing? }}$
 
 I prefer Kaggle for Data Analysis and Data Science project.
 
