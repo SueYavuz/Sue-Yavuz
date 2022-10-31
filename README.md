@@ -26,7 +26,7 @@ I prefer Kaggle for Data Analysis and Data Science project.
 
 - [x] [30P Data Analysis Projects with Tableau](https://github.com/sue-yavuz/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")
 
-- [x] [50P-AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
+- [x] [AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
 
 - [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
 
