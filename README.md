@@ -34,7 +34,7 @@ I prefer Kaggle for Data Analysis and Data Science project.
 ## 📈 $\textcolor{green}{\text{Statistics}}$
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sue-yavuz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="47%"  ---
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sue-yavuz)](https://git.io/streak-stats)
 
