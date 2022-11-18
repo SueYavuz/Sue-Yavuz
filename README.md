@@ -14,8 +14,6 @@
 
 ## 🛠 $\textcolor{orange}{\text{What I've been doing? }}$
 
-I prefer Kaggle for Data Analysis and Data Science project.
-
 - [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
 
 - [x] [14CS Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
