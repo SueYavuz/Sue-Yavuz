@@ -16,7 +16,7 @@
 
 - [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
 
-- [x] [14CS Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
+- [x] [Machine Learning Case Studies with Python](https://github.com/sue-yavuz/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
 
 - [x] [Data Analysis Projects with Python](https://github.com/sue-yavuz/Data-Analysis-Projects-with-Python/blob/main/README.md "Python Data Analysis Projects")
 
