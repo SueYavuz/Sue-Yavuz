@@ -22,7 +22,7 @@
 
 - [x] [Data Analysis Projects with-SQL Server](https://github.com/sue-yavuz/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")
 
-- [x] [Data Analysis Projects with Tableau](https://github.com/sue-yavuz/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")
+- [x] [Data Analysis Projects with Tableau]([https://github.com/sue-yavuz/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects"](https://public.tableau.com/app/profile/sueyavuz)
 
 - [x] [AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
 
