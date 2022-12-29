@@ -26,7 +26,7 @@
 
 - [x] [AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
 
-- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
+- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/Projects)
 
 
 ## 📈 $\textcolor{orange}{\text{Statistics}}$
