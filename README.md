@@ -28,9 +28,7 @@
 
 - [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/Projects)
 
-<!-- CHANGE-04 /username/ yerine account user name yaz -->
-- [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/sue-yavuz/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
+
 <br><br>
 
 
