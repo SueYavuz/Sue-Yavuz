@@ -29,11 +29,6 @@
 - [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/Projects)
 
 
-<br><br>
-
-
-    
-
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>
