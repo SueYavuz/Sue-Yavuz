@@ -30,7 +30,7 @@
 
 
 <details>
-<summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
+<summary ><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>
     
     
