@@ -12,6 +12,38 @@
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 
 
+Self motivated, good in team with critical and strategic thinking.  Ability to communicate data science into business via academic knowledge and training. Now I Have been working as a Data Scientist with projects such as Data Analysis , Machine Learning and Deep Learning.
+
+Above all, I am a lifelong student.
+
+SKILLS:
+
+1) DESCRIPTIVE & PREDICTIVE STATISTICS:
+ Standard Deviation, IQR, Variance, Distributions, Histogram, Outliers
+ Hypothesis Testing, A/B Testing, and ANOVA
+ Correlation and Regression Analysis
+
+2) MACHINE LEARNING:
+• Explanatory Data Analysis, Feature Engineering
+• Supervised ML: Regression, Classification Logistic Regression, KNN, Decision Tree, Random Forest, GBM
+• Unsupervised ML: K-Means Clustering Model
+• Model tuning, Cross-Validation, Hyperparameter
+• Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Sci-kit-learn, SciPy
+
+3) DATA WRANGLING, DATA VALIDATION, DATA QUALITY MANAGEMENT:
+• SQL, Python
+• Tableau
+
+4) SOFTWARE SYSTEM ARCHITECTURE:
+• Cloud: AWS, Azure(Learning)
+• Relational Data Management/Processing
+
+5) PROJECT MANAGEMENT:
+• Development Methodologies: Agile, Waterfall
+• Repository: Git, GitHub, GitLab
+
+6) LINGUISTIC SKILLS: English, Spanish, Turkish
+
 
 ## 🛠 What I've been doing? 
 
