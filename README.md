@@ -43,25 +43,6 @@ SKILLS:
 • Repository: Git, GitHub, GitLab
 
 6) LINGUISTIC SKILLS: English, Spanish, Turkish
-
-
-## 🛠 What I've been doing? 
-
-- [x] [Machine Learning Projects with Python](https://github.com/sue-yavuz/Assingments/tree/master/ML-Projects)
-
-- [x] [Machine Learning Case Studies with Python](https://github.com/sue-yavuz/Assingments)
-
-- [x] [Data Analysis Projects with Python](https://github.com/sue-yavuz/Data-Analysis-Projects-with-Python/blob/main/README.md "Python Data Analysis Projects")
-
-- [x] [Data Analysis Projects with-SQL Server](https://github.com/sue-yavuz/Assingments/tree/master/SQL%20Assingments)
-
-- [x] [Data Analysis Projects with Tableau](https://public.tableau.com/app/profile/sueyavuz)
-
-- [x] [AWS-Model-Deployment-Prediction-App](https://github.com/sue-yavuz/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
-
-- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/sue-yavuz/Projects)
-
-
 <details>
 <summary ><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>
